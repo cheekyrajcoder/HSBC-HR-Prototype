@@ -1,2 +1,2 @@
-# HSBC-HR-Prototype
-SNR Industries Official HSBC HR Prototype
+# HSBC-AR-Prototype
+SNR Industries Official HSBC AR Prototype
